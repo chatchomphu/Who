@@ -1,0 +1,106 @@
+<resources>
+    <string name="app_name">Who</string>
+    <string name="btn_edit_member">แก้ไขสมาชิก</string>
+    <string name="title_activity_main2">MainActivity2</string>
+
+    <string name="first_tutorial">กรอกชื่อผู้ร่วมทริปกันเลย..</string>
+    <string name="view_inflict">ดูบทลงโทษ</string>
+    <string name="save_failed">บันทึกไม่สำเร็จ</string>
+    <string name="save_successed">บันทึกสำเร็จ</string>
+    <string name="edit_member">โปรดเพิ่มสมาชิก</string>
+    <string name="remove_member">ลบสมาชิกหมดแล้ว</string>
+    <string name="unremove_member">ไม่สามารถลบสมาชิกได้</string>
+
+
+
+    <string name="sta1_1">ใครขึ้นรถคนแรก</string>
+    <string name="sta1_2">ใครขึ้นรถคนที่สอง</string>
+    <string name="sta1_3">ใครขึ้นรถคนที่สาม</string>
+    <string name="sta1_4">ใครขึ้นรถคนสุดท้าย</string>
+    <string name="sta1_5">ใครใส่หมวกในรถ</string>
+    <string name="sta1_6">ใครนั่งข้าง</string>
+
+    <string name="sta2_1">ใครที่เข้าห้องน้ำคนแรก</string>
+    <string name="sta2_2">ใครที่ไม่ได้เข้าห้องน้ำ</string>
+    <string name="sta2_3">ใครที่ซื้อน้ำอัดลม"\n"ขึ้นมาบนรถ</string>
+    <string name="sta2_4">ใครที่ซื้อของคาว"\n"ขึ้นมาบนรถ</string>
+    <string name="sta2_5">ใครที่ใส่แว่น</string>
+    <string name="sta2_6">ใครที่ซื้อของกิน"\n"เกิน 100 บาท</string>
+
+    <string name="sta3_1">ใครสั่งพิเศษ</string>
+    <string name="sta3_2">ใครใส่หมวกกินข้าว</string>
+    <string name="sta3_3">ใครรินน้ำให้เพื่อน</string>
+    <string name="sta3_4">ใครสั่งไข่ดาว</string>
+    <string name="sta3_5">ใครกินข้าวคนแรก</string>
+    <string name="sta3_6">ใครไม่มีผักในอาหาร</string>
+
+    <string name="sta4_1">ใครถ่ายรูปชูสองนิ้ว</string>
+    <string name="sta4_2">ใครอัพรูป"\n"จากสถานที่เที่ยวคนแรก</string>
+    <string name="sta4_3">ใครถ่ายรูปเดี่ยวเยอะสุด</string>
+    <string name="sta4_4">ใครขึ้นรถคนสุดท้าย</string>
+    <string name="sta4_5">ใครเป็นคนบอกให้"\n"เล่นเกมส์ในครั้งนี้</string>
+    <string name="sta4_6">ใครถ่ายสแนปแชท"\n"ที่สถานที่ท่องเที่ยว</string>
+
+    <string name="sta5_1">ใครนั่งข้าง</string>
+    <string name="sta5_2">ใครอัพรูป"\n"จากสถานที่เที่ยวคนแรก</string>
+    <string name="sta5_3">ใครกินขนมบนรถ</string>
+    <string name="sta5_4">ใครถ่ายรูปเซลฟี่บนรถ</string>
+    <string name="sta5_5">ใครร้องเพลงบนรถ</string>
+    <string name="sta5_6">ใครหลับคนแรก</string>
+
+    <string name="sta6_1">ใครเข้าที่พักคนสุดท้าย</string>
+    <string name="sta6_2">ใครจองที่นอนก่อนคนแรก</string>
+    <string name="sta6_3">ใครต่อไวไฟที่พักคนแรก</string>
+    <string name="sta6_4">ใครเช็คอินเฟซบุ๊ก</string>
+    <string name="sta6_5">ใครถ่ายสแนปแชทลงอินสตาแกรม</string>
+    <string name="sta6_6">ใครถ่ายรูปชูนิ้วโป้ง"\n"ที่บ้านพักลงเฟซบุ๊ก</string>
+
+    <string name="sta7_1">ใครอาบน้ำคนที่สาม</string>
+    <string name="sta7_2">ใครบ่นว่าหิว</string>
+    <string name="sta7_3">ใครใส่เสื้อสีน้ำเงิน</string>
+    <string name="sta7_4">ใครนอนข้าง</string>
+    <string name="sta7_5">ใครอาบน้ำต่อจาก</string>
+    <string name="sta7_6">ใครเปิดทีวี</string>
+
+    <string name="inflict1_1">เลี้ยงขนม</string>
+    <string name="inflict1_2">ถือกระเป๋า"\n"เข้าที่พักให้</string>
+    <string name="inflict1_3">ถ่ายรูปน่าเกลียดอัพเฟซบุ๊ก</string>
+    <string name="inflict1_4">เล่นมุก!!!"\n"จนกว่าเพื่อนจะฮา</string>
+    <string name="inflict1_5">ร้องเพลงแบบร่าเริง"\n"จนกว่าเพื่อนจะพอใจ</string>
+
+    <string name="inflict2_1">เลี้ยงขนม</string>
+    <string name="inflict2_2">ถ่ายรูปน่าเกลียดอัพเฟซบุ๊ก</string>
+    <string name="inflict2_3">มัดจุกหนึ่งจุก</string>
+    <string name="inflict2_4">แบ่งขนมให้เพื่อนกินด้วย</string>
+    <string name="inflict2_5">เอาแป้งปะหน้า</string>
+
+    <string name="inflict3_1">มื้อนี้กินฟรี</string>
+    <string name="inflict3_2">มื้อนี้กินน้ำฟรี</string>
+    <string name="inflict3_3">ดวงคุณกลางๆ"\n"ไม่ต้องทำอะไร</string>
+    <string name="inflict3_4">คนที่นั่งข้างซ้าย"\n"จ่ายค่าน้ำให้</string>
+    <string name="inflict3_5">คนที่นั่งข้างขวา"\n"จ่ายค่าน้ำให้</string>
+
+    <string name="inflict4_1">อัพรูปลงเฟซบุ๊กสามรูปรัวๆ"\n"ด้วยแคปชั่นว่า "ฉันสวย"</string>
+    <string name="inflict4_2">ส่งเสริมการท่องเที่ยว"\n"ด้วยการลงรูป"\n"สถานที่ท่องเที่ยว</string>
+    <string name="inflict4_3">ซื้อน้ำเลี้ยง</string>
+    <string name="inflict4_4">สั่งให้เพื่อนด้านซ้าย"\n"ทำอะไรก็ได้</string>
+    <string name="inflict4_5">สั่งให้</string>
+
+    <string name="inflict5_1">คุณดวงดี"\n"ตานี้ไม่ต้องทำอะไร</string>
+    <string name="inflict5_2">ส่งเสริมการท่องเที่ยว"\n"ด้วยการถ่ายสแนปแชท"\n"สามครั้งหลังจากนี้</string>
+    <string name="inflict5_3">ให้คนที่นี่งข้างหลัง"\n"สั่งให้ทำอะไรก็ได้</string>
+    <string name="inflict5_4">ให้คนที่นั่งข้างซ้าย"\n"สั่งให้ทำอะไรก็ได้</string>
+    <string name="inflict5_5">ให้คนที่นั่งข้างขวา"\n"สั่งให้ทำอะไรก็ได้</string>
+
+    <string name="inflict6_1">ยินดีด้วยคุณไม่ต้องทำอะไร</string>
+    <string name="inflict6_2">เต้นให้เพื่อนดู"\n"กับ</string>
+    <string name="inflict6_3">เล่นมุก !!!"\n"จนกว่าเพื่อนจะฮา</string>
+    <string name="inflict6_4">ร้องเพลงคู่แบบมีอินเนอร์"\n"กับ </string>
+    <string name="inflict6_5">เล่นมุกให้</string>
+
+    <string name="inflict7_1">คุณอยู่ระหว่างพักผ่อน"\n"รอดไปไม่ต้องทำอะไร</string>
+    <string name="inflict7_2">คุณดวงดีมากๆเลย"\n"ยิ้มสวยๆให้ทุกคนก็พอแล้ว</string>
+    <string name="inflict7_3">คุณเกิดมาพร้อมดวงจริงๆ"\n"ไม่ต้องทำอะไร</string>
+    <string name="inflict7_4">ซิทอัพ 10 ครั้ง"\n"กับ </string>
+    <string name="inflict7_5">แพลงกิ้ง 10 วินาที"\n"กับ</string>
+</resources>
